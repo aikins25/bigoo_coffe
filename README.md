@@ -1,6 +1,5 @@
 # # Emma's Coffee Machine
 
-![Coffee Machine](artwork/coffee_machine_artwork.png)
 
 ## Introduction
 
