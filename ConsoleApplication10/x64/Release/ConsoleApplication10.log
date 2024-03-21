@@ -1,0 +1,13 @@
+﻿  ConsoleApplication10.cpp
+C:\Users\buabe\Downloads\MySql\mysqlheaders\mysqlheaders\mysql_com.h(175,13): error C3646: 'fd': unknown override specifier
+  (compiling source file 'ConsoleApplication10.cpp')
+  
+C:\Users\buabe\Downloads\MySql\mysqlheaders\mysqlheaders\mysql_com.h(175,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ConsoleApplication10.cpp')
+  
+C:\Users\buabe\Downloads\MySql\mysqlheaders\mysqlheaders\mysql_com.h(339,16): error C2065: 'SOCKET': undeclared identifier
+  (compiling source file 'ConsoleApplication10.cpp')
+  
+C:\Users\buabe\Downloads\MySql\mysqlheaders\mysqlheaders\mysql_com.h(339,26): error C2146: syntax error: missing ')' before identifier 's'
+  (compiling source file 'ConsoleApplication10.cpp')
+  

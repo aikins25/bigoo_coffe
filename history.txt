@@ -1,0 +1,211 @@
+Sale of multiple flavors at 2024-02-21 23:33:43
+
+==================================== RECEIPT ====================================
+ITEM PURCHASED:
+PRICE:
+TIP: 
+TOTAL PAID: 
+CHANGE: 
+=================================================================================
+milk used: 0ml
+milk left: 200ml
+coffee used: 24g
+coffee left: 76g
+water used: 250ml
+water left: 50ml
+
+
+Resource Restocked: Milk at 2024-02-21 23:33:55
+
+Milk Added: 10000
+Current Milk Available: 10200
+
+Resource Restocked: Coffee at 2024-02-21 23:33:55
+
+Coffee Added: 10000
+Current Coffee Available: 10076
+
+Resource Restocked: Water at 2024-02-21 23:33:55
+
+Water Added: 1000
+Current Water Available: 1050
+
+Sale of multiple flavors at 2024-02-21 23:47:03
+
+==================================== RECEIPT ====================================
+ITEM PURCHASED:
+PRICE:
+TIP: 
+TOTAL PAID: 
+CHANGE: 
+=================================================================================
+milk used: 0ml
+milk left: 10200ml
+coffee used: 0g
+coffee left: 10076g
+water used: 0ml
+water left: 1050ml
+
+
+Sale of multiple flavors at 2024-02-22 00:03:52
+
+==================================== RECEIPT ====================================
+ITEM PURCHASED:
+PRICE:
+TIP: 
+TOTAL PAID: 
+CHANGE: 
+=================================================================================
+milk used: 600ml
+milk left: 9600ml
+coffee used: 120g
+coffee left: 9956g
+water used: 1050ml
+water left: 0ml
+
+
+Resource Restocked: Milk at 2024-02-22 00:38:56
+
+Milk Added: 10000
+Current Milk Available: 19600
+
+Resource Restocked: Coffee at 2024-02-22 00:38:56
+
+Coffee Added: 1000
+Current Coffee Available: 10956
+
+Resource Restocked: Water at 2024-02-22 00:38:56
+
+Water Added: 10000
+Current Water Available: 10000
+
+Sale of multiple flavors at 2024-02-22 00:39:12
+
+==================================== RECEIPT ====================================
+ITEM PURCHASED: Multiple Flavors
+PRICE: ?54.00
+TIP: ?0.00
+TOTAL PAID: ?54.00
+CHANGE: ?2.00
+=================================================================================
+milk used: 0ml
+milk left: 19600ml
+coffee used: 54g
+coffee left: 10902g
+water used: 150ml
+water left: 9850ml
+
+
+Sale of multiple flavors at 2024-02-22 00:42:08
+
+==================================== RECEIPT ====================================
+ITEM PURCHASED: Multiple Flavors
+PRICE: C54.00
+TIP: C0.00
+TOTAL PAID: C54.00
+CHANGE: C2.00
+=================================================================================
+milk used: 0ml
+milk left: 19600ml
+coffee used: 54g
+coffee left: 10848g
+water used: 150ml
+water left: 9700ml
+
+
+Sale of multiple flavors at 2024-03-07 07:11:51
+
+==================================== RECEIPT ====================================
+ITEM PURCHASED: Multiple Flavors
+PRICE: C132.00
+TIP: C5.00
+TOTAL PAID: C137.00
+CHANGE: C3.00
+=================================================================================
+milk used: 300ml
+milk left: 19300ml
+coffee used: 108g
+coffee left: 10740g
+water used: 750ml
+water left: 8950ml
+
+
+Resource Restocked: Milk at 2024-03-07 07:13:36
+
+Milk Added: 5000
+Current Milk Available: 24300
+
+Resource Restocked: Coffee at 2024-03-07 07:13:36
+
+Coffee Added: 1000
+Current Coffee Available: 11740
+
+Resource Restocked: Water at 2024-03-07 07:13:36
+
+Water Added: 5000
+Current Water Available: 13950
+
+Sale of multiple flavors at 2024-03-11 09:41:21
+
+==================================== RECEIPT ====================================
+ITEM PURCHASED: Multiple Flavors
+PRICE: C360.00
+TIP: C10.00
+TOTAL PAID: C370.00
+CHANGE: C0.00
+=================================================================================
+milk used: 0ml
+milk left: 24300ml
+coffee used: 360g
+coffee left: 11380g
+water used: 1000ml
+water left: 12950ml
+
+
+Resource Restocked: Milk at 2024-03-11 09:42:20
+
+Milk Added: 10
+Current Milk Available: 24310
+
+Resource Restocked: Coffee at 2024-03-11 09:42:20
+
+Coffee Added: 10
+Current Coffee Available: 11390
+
+Resource Restocked: Water at 2024-03-11 09:42:20
+
+Water Added: 10
+Current Water Available: 12960
+
+Sale of multiple flavors at 2024-03-11 13:20:08
+
+==================================== RECEIPT ====================================
+ITEM PURCHASED: Multiple Flavors
+PRICE: C90.00
+TIP: C1.00
+TOTAL PAID: C91.00
+CHANGE: C0.00
+=================================================================================
+milk used: 0ml
+milk left: 24310ml
+coffee used: 90g
+coffee left: 11300g
+water used: 250ml
+water left: 12710ml
+
+
+Resource Restocked: Milk at 2024-03-11 14:09:11
+
+Milk Added: 200
+Current Milk Available: 24510
+
+Resource Restocked: Coffee at 2024-03-11 14:09:11
+
+Coffee Added: 200
+Current Coffee Available: 11500
+
+Resource Restocked: Water at 2024-03-11 14:09:11
+
+Water Added: 200
+Current Water Available: 12910
+
